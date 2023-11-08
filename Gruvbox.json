@@ -81,13 +81,13 @@
       "#908caa"
       ],
       "HEADER_PRIMARY": [
-      "#e0def4"
+      "#ebdbb2"
       ],
       "HEADER_SECONDARY": [
-      "#e0def4"
+      "#ebdbb2"
       ],
       "INTERACTIVE_ACTIVE": [
-      "#e0def4"
+      "#ebdbb2"
       ],
       "INTERACTIVE_HOVER": [
       "#98971a50"
@@ -114,7 +114,7 @@
       "#cc241d"
       ],
       "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#e0def4"
+      "#ebdbb2"
       ],
       "REDESIGN_CHANNEL_NAME_TEXT": [
       "#c4a7e7"
@@ -135,7 +135,7 @@
       "#928374"
       ],
       "TEXT_NORMAL": [
-      "#e0def4"
+      "#ebdbb2"
       ],
       "TEXT_SECONDARY": [
       "#ebbcba"
@@ -147,7 +147,7 @@
       "BRAND_360": "#ebbcba",
       "BRAND_500": "#cc241d",
       "BRAND_560": "#ebbcba",
-      "PLUM_1": "#e0def4",
+      "PLUM_1": "#ebdbb2",
       "PLUM_10": "#928374",
       "PLUM_11": "#1d2021",
       "PLUM_13": "#cc241d50",
@@ -161,10 +161,10 @@
       "PLUM_22": "#3c3836",
       "PLUM_24": "#3c3836",
       "PLUM_25": "#9ccfd8",
-      "PLUM_3": "#e0def4",
+      "PLUM_3": "#ebdbb2",
       "PLUM_4": "#cc241d50",
       "PLUM_6": "#c4a7e7",
-      "PLUM_9": "#e0def4",
+      "PLUM_9": "#ebdbb2",
       "PRIMARY_100": "#524f67",
       "PRIMARY_230": "#c4a7e7",
       "PRIMARY_300": "#ebbcba",
@@ -332,7 +332,7 @@
           "ic_reply_24px": "#f6c177",
           "ic_rich_presence_dark_12px": "#908caa",
           "ic_report_message": "#98971a",
-          "ic_robot_24px": "#e0def4",
+          "ic_robot_24px": "#ebdbb2",
           "ic_selection_checked_24px": "#9ccfd8",
           "ic_selection_checked_24px__overlay": "#1d2021",
           "ic_selection_none_24px": "#9ccfd8",
