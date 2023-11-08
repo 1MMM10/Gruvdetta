@@ -18,10 +18,10 @@
       "#98971a50"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-      "#191724"
+      "#1d2021"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-      "#191724"
+      "#1d2021"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
       "#26233a"
@@ -42,7 +42,7 @@
       "#282828"
       ],
       "BACKGROUND_SECONDARY": [
-      "#191724"
+      "#1d2021"
       ],
       "BACKGROUND_SECONDARY_ALT": [
       "#26233a"
@@ -54,7 +54,7 @@
       "#282828"
       ],
       "BG_BASE_SECONDARY": [
-      "#191724"
+      "#1d2021"
       ],
       "BORDER_FAINT": [
       "#cc241d"
@@ -149,11 +149,11 @@
       "BRAND_560": "#ebbcba",
       "PLUM_1": "#e0def4",
       "PLUM_10": "#6e6a86",
-      "PLUM_11": "#191724",
+      "PLUM_11": "#1d2021",
       "PLUM_13": "#cc241d50",
       "PLUM_15": "#26233a",
       "PLUM_16": "#f6c177",
-      "PLUM_17": "#191724",
+      "PLUM_17": "#1d2021",
       "PLUM_18": "#26233a",
       "PLUM_19": "#908caa",
       "PLUM_20": "#26233a",
@@ -177,7 +177,7 @@
       "PRIMARY_645": "#cc241d50",
       "PRIMARY_660": "#26233a",
       "PRIMARY_700": "#26233a",
-      "PRIMARY_800": "#191724",
+      "PRIMARY_800": "#1d2021",
       "GREEN_100": "#9ccfd8",
       "GREEN_130": "#9ccfd8",
       "GREEN_160": "#9ccfd8",
@@ -281,7 +281,7 @@
           "ic_chat_bubble_16px": "#f6c177",
           "ic_chat_bubble_32px": "#f6c177",
           "ic_check": "#9ccfd8",
-          "ic_check__overlay": "#191724",
+          "ic_check__overlay": "#1d2021",
           "ic_copy_id": "#9ccfd8",
           "ic_copy_message_link": "#9ccfd8",
           "ic_close": "#98971a",
@@ -324,17 +324,17 @@
           "ic_person_add": "#9ccfd8",
           "ic_person_add_18px": "#9ccfd8",
           "ic_radio_circle_checked": "#9ccfd8",
-          "ic_radio_circle_checked__overlay": "#191724",
+          "ic_radio_circle_checked__overlay": "#1d2021",
           "ic_radio_square_24px": "#9ccfd8",
           "ic_radio_square_checked_24px": "#9ccfd8",
-          "ic_radio_square_checked_24px__overlay": "#191724",
+          "ic_radio_square_checked_24px__overlay": "#1d2021",
           "ic_reactions_white_16px": "#9ccfd8",
           "ic_reply_24px": "#f6c177",
           "ic_rich_presence_dark_12px": "#908caa",
           "ic_report_message": "#98971a",
           "ic_robot_24px": "#e0def4",
           "ic_selection_checked_24px": "#9ccfd8",
-          "ic_selection_checked_24px__overlay": "#191724",
+          "ic_selection_checked_24px__overlay": "#1d2021",
           "ic_selection_none_24px": "#9ccfd8",
           "ic_search": "#c4a7e7",
           "ic_settings": "#98971a",
