@@ -30,7 +30,7 @@
       "#26233a"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-      "#1f1d2e"
+      "#282828"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
       "#eb6f9250"
@@ -51,7 +51,7 @@
       "#26233a"
       ],
       "BG_BASE_PRIMARY": [
-      "#1f1d2e"
+      "#282828"
       ],
       "BG_BASE_SECONDARY": [
       "#191724"
@@ -69,7 +69,7 @@
       "#6e6a86"
       ],
       "CARD_PRIMARY_BG": [
-      "#1f1d2e"
+      "#282828"
       ],
       "CHANNEL_ICON": [
       "#c4a7e7"
@@ -248,7 +248,7 @@
       "YELLOW_830": "#f6c177",
       "YELLOW_860": "#f6c177",
       "YELLOW_900": "#f6c177",
-      "WHITE_500": "#1f1d2e",
+      "WHITE_500": "#282828",
       "WHITE_630": "#908caa"
    },
     "background": {
