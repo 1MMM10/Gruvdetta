@@ -66,7 +66,7 @@
       "#cc241d"
       ],
       "CARD_SECONDARY_BG": [
-      "#6e6a86"
+      "#928374"
       ],
       "CARD_PRIMARY_BG": [
       "#282828"
@@ -93,7 +93,7 @@
       "#98971a50"
       ],
       "INTERACTIVE_MUTED": [
-      "#6e6a86"
+      "#928374"
       ],
       "INTERACTIVE_NORMAL": [
       "#c4a7e7"
@@ -132,7 +132,7 @@
       "#f6c177"
       ],
       "TEXT_MUTED": [
-      "#6e6a86"
+      "#928374"
       ],
       "TEXT_NORMAL": [
       "#e0def4"
@@ -148,7 +148,7 @@
       "BRAND_500": "#cc241d",
       "BRAND_560": "#ebbcba",
       "PLUM_1": "#e0def4",
-      "PLUM_10": "#6e6a86",
+      "PLUM_10": "#928374",
       "PLUM_11": "#1d2021",
       "PLUM_13": "#cc241d50",
       "PLUM_15": "#3c3836",
