@@ -90,7 +90,7 @@
       "#ebdbb2"
       ],
       "INTERACTIVE_HOVER": [
-      "#98971a50"
+      "#d5c4a150"
       ],
       "INTERACTIVE_MUTED": [
       "#928374"
@@ -144,9 +144,9 @@
     "rawColors": {
       "BLUE_345": "#458588",
       "BRAND_260": "#80c07c",
-      "BRAND_360": "#98971a",
+      "BRAND_360": "#d5c4a1",
       "BRAND_500": "#d3869b",
-      "BRAND_560": "#98971a",
+      "BRAND_560": "#d5c4a1",
       "PLUM_1": "#ebdbb2",
       "PLUM_10": "#928374",
       "PLUM_11": "#1d2021",
@@ -167,9 +167,9 @@
       "PLUM_9": "#ebdbb2",
       "PRIMARY_100": "#665c54",
       "PRIMARY_230": "#80c07c",
-      "PRIMARY_300": "#98971a",
+      "PRIMARY_300": "#d5c4a1",
       "PRIMARY_360": "#a89984",    
-      "PRIMARY_400": "#98971a",
+      "PRIMARY_400": "#d5c4a1",
       "PRIMARY_460": "#3c3836",
       "PRIMARY_500": "#80c07c",
       "PRIMARY_600": "#3c3836",
@@ -257,7 +257,7 @@
        "icons":{
           "add": "#d79921",
           "android-close": "#98971a",
-          "ArrowLargeLeftIcon": "#98971a",
+          "ArrowLargeLeftIcon": "#d5c4a1",
           "AtIcon": "#98971a",
           "Audio": "#98971a",
           "back-icon": "#98971a",
