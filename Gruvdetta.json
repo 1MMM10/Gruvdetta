@@ -254,6 +254,7 @@
    "plus":{
        "version":"0",
        "customOverlays": true,
+        "iconpack" :"md3",
        "icons":{
           "add": "#d79921",
           "android-close": "#98971a",
