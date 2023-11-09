@@ -1,5 +1,5 @@
 {
-    "name": "Gruvdetta-background",
+    "name": "Gruvdetta",
     "description": "Gruvbox theme based on Moodl's rosepine theme.",
     "authors": [
       {
@@ -138,7 +138,7 @@
       "#ebdbb2"
       ],
       "TEXT_SECONDARY": [
-      "#d3869b"
+      "#1d2021"
       ]
     },
     "rawColors": {
@@ -177,7 +177,7 @@
       "PRIMARY_645": "#d3869b50",
       "PRIMARY_660": "#3c3836",
       "PRIMARY_700": "#3c3836",
-      "PRIMARY_800": "#d3869b",
+      "PRIMARY_800": "#1d2021",
       "GREEN_100": "#98971a",
       "GREEN_130": "#98971a",
       "GREEN_160": "#98971a",
@@ -375,8 +375,4 @@
  }
 },
     "spec": 2
-},
-"background": { 
-"alpha": 0,
- "url": "https://cdn.discordapp.com/attachments/1131528774282911765/1171829916942225478/rYpVnDg.jpg?ex=655e1aa7&is=654ba5a7&hm=199c5416df25db1b843d1ba83e6f40529cc1a05cac47268fb94335ce6c333eb1&"
 }
