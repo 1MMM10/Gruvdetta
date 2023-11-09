@@ -1,5 +1,5 @@
 {
-    "name": "Gruvdetta",
+    "name": "Gruvbox background",
     "description": "Gruvbox theme based on Moodl's rosepine theme.",
     "authors": [
       {
@@ -138,22 +138,22 @@
       "#ebdbb2"
       ],
       "TEXT_SECONDARY": [
-      "#1d2021"
+      "#d3869b"
       ]
     },
     "rawColors": {
       "BLUE_345": "#458588",
       "BRAND_260": "#1d2021",
-      "BRAND_360": "#1d2021",
+      "BRAND_360": "#d3869b",
       "BRAND_500": "#d3869b",
-      "BRAND_560": "#1d2021",
+      "BRAND_560": "#fbf1c7",
       "PLUM_1": "#ebdbb2",
       "PLUM_10": "#928374",
-      "PLUM_11": "#1d2021",
+      "PLUM_11": "#fbf1c7",
       "PLUM_13": "#d3869b50",
       "PLUM_15": "#504945",
       "PLUM_16": "#d79921",
-      "PLUM_17": "#1d2021",
+      "PLUM_17": "#fbf1c7",
       "PLUM_18": "#3c3836",
       "PLUM_19": "#a89984",
       "PLUM_20": "#3c3836",
@@ -163,7 +163,7 @@
       "PLUM_25": "#d79921",
       "PLUM_3": "#ebdbb2",
       "PLUM_4": "#d3869b50",
-      "PLUM_6": "#1d2021",
+      "PLUM_6": "#d3869b",
       "PLUM_9": "#ebdbb2",
       "PRIMARY_100": "#665c54",
       "PRIMARY_230": "#d5c4a1",
@@ -177,7 +177,7 @@
       "PRIMARY_645": "#d3869b50",
       "PRIMARY_660": "#3c3836",
       "PRIMARY_700": "#3c3836",
-      "PRIMARY_800": "#1d2021",
+      "PRIMARY_800": "#282828",
       "GREEN_100": "#98971a",
       "GREEN_130": "#98971a",
       "GREEN_160": "#98971a",
@@ -278,7 +278,7 @@
           "ic_chat_bubble_16px": "#d79921",
           "ic_chat_bubble_32px": "#d79921",
           "ic_check": "#d79921",
-          "ic_check__overlay": "#1d2021",
+          "ic_check__overlay": "#d3869b",
           "ic_copy_id": "#d79921",
           "ic_copy_message_link": "#d79921",
           "ic_close": "#98971a",
@@ -321,17 +321,17 @@
           "ic_person_add": "#d5c41a",
           "ic_person_add_18px": "d5c41a",
           "ic_radio_circle_checked": "#d79921",
-          "ic_radio_circle_checked__overlay": "#1d2021",
+          "ic_radio_circle_checked__overlay": "#d3869b",
           "ic_radio_square_24px": "#d79921",
           "ic_radio_square_checked_24px": "#d79921",
-          "ic_radio_square_checked_24px__overlay": "#1d2021",
+          "ic_radio_square_checked_24px__overlay": "#d3869b",
           "ic_reactions_white_16px": "#d79921",
           "ic_reply_24px": "#d79921",
           "ic_rich_presence_dark_12px": "#a89984",
           "ic_report_message": "#cc241d",
           "ic_robot_24px": "#ebdbb2",
           "ic_selection_checked_24px": "#d79921",
-          "ic_selection_checked_24px__overlay": "#1d2021",
+          "ic_selection_checked_24px__overlay": "#d3869b",
           "ic_selection_none_24px": "#d79921",
           "ic_search": "#d5c4a1",
           "ic_settings": "#98971a",
@@ -375,4 +375,8 @@
  }
 },
     "spec": 2
+},
+"background": {
+"alpha": 0,
+"url": "https://cdn.discordapp.com/attachments/1131528774282911765/1171829916942225478/rYpVnDg.jpg?ex=655e1aa7&is=654ba5a7&hm=199c5416df25db1b843d1ba83e6f40529cc1a05cac47268fb94335ce6c333eb1&"
 }
