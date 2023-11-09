@@ -138,7 +138,7 @@
       "#ebdbb2"
       ],
       "TEXT_SECONDARY": [
-      "#"
+      "#d5c4a1"
       ]
     },
     "rawColors": {
@@ -254,7 +254,6 @@
    "plus":{
        "version":"0",
        "customOverlays": true,
-	"iconoack": "md3",
        "icons":{
           "add": "#d79921",
           "android-close": "#98971a",
