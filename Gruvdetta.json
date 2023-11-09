@@ -138,15 +138,15 @@
       "#ebdbb2"
       ],
       "TEXT_SECONDARY": [
-      "#bdae93"
+      "#"
       ]
     },
     "rawColors": {
       "BLUE_345": "#458588",
-      "BRAND_260": "#1d2021",
-      "BRAND_360": "#1d2021",
+      "BRAND_260": "#d5c4a1",
+      "BRAND_360": "#d5c4a1",
       "BRAND_500": "#d3869b",
-      "BRAND_560": "#1d2021",
+      "BRAND_560": "#d5c4a1",
       "PLUM_1": "#ebdbb2",
       "PLUM_10": "#928374",
       "PLUM_11": "#1d2021",
