@@ -117,7 +117,7 @@
       "#ebdbb2"
       ],
       "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#458588"
+      "#ebdbb2"
       ],
       "REDESIGN_CHAT_INPUT_BACKGROUND": [
       "#504945"
@@ -332,18 +332,18 @@
           "ic_selection_checked_24px": "#d79921",
           "ic_selection_checked_24px__overlay": "#1d2021",
           "ic_selection_none_24px": "#d79921",
-          "ic_search": "#458588",
+          "ic_search": "#d5c4a1",
           "ic_settings": "#98971a",
           "ic_settings_white_24px": "#98971a",
           "ic_settings_grey_24px": "#98971a",
           "ic_show_password": "#98971a",
-          "ic_soundboard": "#458588",
+          "ic_soundboard": "#b8bb26",
           "ic_soundboard_muted": "#98971a",
           "ic_spotify_white_16px": "#1ed760",
           "ic_star_filled": "#d79921",
           "ic_sticker_24px": "#98971a",
           "ic_sync_24px": "#d79921",
-          "ic_text_channel_16px": "#458588",
+          "ic_text_channel_16px": "#ebdbb2",
           "ic_text_channel_nsfw_16px": "#98971a",
           "icon-call": "#98971a",
           "icon-invite": "#d79921",
