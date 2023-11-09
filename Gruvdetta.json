@@ -12,7 +12,7 @@
       "#98971a50"
       ],
       "BACKGROUND_ACCENT": [
-      "#cc241d"
+      "#b16286"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
       "#98971a50"
@@ -126,7 +126,7 @@
       "#32302f"
       ],
       "TEXT_DANGER": [
-      "#98971a"
+      "#fb4934"
       ],
       "TEXT_LINK": [
       "#d79921"
@@ -142,7 +142,7 @@
       ]
     },
     "rawColors": {
-      "BLUE_345": "#d79921",
+      "BLUE_345": "#458588",
       "BRAND_260": "#458588",
       "BRAND_360": "#98971a",
       "BRAND_500": "#cc241d",
@@ -178,34 +178,34 @@
       "PRIMARY_660": "#3c3836",
       "PRIMARY_700": "#3c3836",
       "PRIMARY_800": "#1d2021",
-      "GREEN_100": "#d79921",
-      "GREEN_130": "#d79921",
-      "GREEN_160": "#d79921",
-      "GREEN_200": "#d79921",
-      "GREEN_230": "#d79921",
-      "GREEN_260": "#d79921",
-      "GREEN_300": "#d79921",
-      "GREEN_330": "#d79921",
-      "GREEN_345": "#d79921",
-      "GREEN_360": "#d79921",
-      "GREEN_400": "#d79921",
-      "GREEN_430": "#d79921",
-      "GREEN_460": "#d79921",
-      "GREEN_500": "#d79921",
-      "GREEN_530": "#d79921",
-      "GREEN_560": "#d79921",
-      "GREEN_600": "#d79921",
-      "GREEN_630": "#d79921",
-      "GREEN_660": "#d79921",
-      "GREEN_700": "#d79921",
-      "GREEN_730": "#d79921",
-      "GREEN_760": "#d79921",
-      "GREEN_800": "#d79921",
-      "GREEN_830": "#d79921",
-      "GREEN_860": "#d79921",
-      "GREEN_900": "#d79921",
-      "GUILD_BOOSTING_PINK": "#98971a",   
-      "GUILD_BOOSTING_PURPLE": "#d3869b",
+      "GREEN_100": "#98971a",
+      "GREEN_130": "#98971a",
+      "GREEN_160": "#98971a",
+      "GREEN_200": "#98971a",
+      "GREEN_230": "#98971a",
+      "GREEN_260": "#98971a",
+      "GREEN_300": "#98971a",
+      "GREEN_330": "#98971a",
+      "GREEN_345": "#98971a",
+      "GREEN_360": "#98971a",
+      "GREEN_400": "#98971a",
+      "GREEN_430": "#98971a",
+      "GREEN_460": "#98971a",
+      "GREEN_500": "#98971a",
+      "GREEN_530": "#98971a",
+      "GREEN_560": "#98971a",
+      "GREEN_600": "#98971a",
+      "GREEN_630": "#98971a",
+      "GREEN_660": "#98971a",
+      "GREEN_700": "#98971a",
+      "GREEN_730": "#98971a",
+      "GREEN_760": "#98971a",
+      "GREEN_800": "#98971a",
+      "GREEN_830": "#98971a",
+      "GREEN_860": "#98971a",
+      "GREEN_900": "#98971a",
+      "GUILD_BOOSTING_PINK": "#d3869b",   
+      "GUILD_BOOSTING_PURPLE": "#b16286",
       "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#d3869b",
       "RED_260": "#cc241d",
       "RED_300": "#cc241d",
@@ -360,7 +360,7 @@
           "SettingsIcon": "#98971a",
           "stack-nav-back": "#458588",
           "stack-nav-close": "#98971a",
-          "star": "#d79921",
+          "star": "#fabd2f",
           "StarOutlineIcon": "#98971a",
           "StatusMobileOnline": "#b8bb26",
           "StatusIdle": "#fabd2f",
