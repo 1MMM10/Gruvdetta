@@ -57,13 +57,13 @@
       "#3c3836"
       ],
       "BORDER_FAINT": [
-      "#cc241d"
+      "#d3869b"
       ],
       "BORDER_STRONG": [
-      "#cc241d"
+      "#b16286"
       ],      
       "BORDER_SUBTLE": [
-      "#cc241d"
+      "#d3869b"
       ],
       "CARD_SECONDARY_BG": [
       "#928374"
@@ -111,7 +111,7 @@
       "#504945"
       ],
       "REDESIGN_BUTTON_SECONDARY_BORDER": [ 
-      "#cc241d"
+      "#b16286"
       ],
       "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
       "#ebdbb2"
