@@ -138,7 +138,7 @@
       "#ebdbb2"
       ],
       "TEXT_SECONDARY": [
-      "#98971a"
+      "#d5c4a1"
       ]
     },
     "rawColors": {
@@ -327,7 +327,7 @@
           "ic_reactions_white_16px": "#d79921",
           "ic_reply_24px": "#d79921",
           "ic_rich_presence_dark_12px": "#a89984",
-          "ic_report_message": "#98971a",
+          "ic_report_message": "#cc241d",
           "ic_robot_24px": "#ebdbb2",
           "ic_selection_checked_24px": "#d79921",
           "ic_selection_checked_24px__overlay": "#1d2021",
