@@ -42,7 +42,7 @@
       "#282828"
       ],
       "BACKGROUND_SECONDARY": [
-      "#3c3836"
+      "#1d2021"
       ],
       "BACKGROUND_SECONDARY_ALT": [
       "#504945"
@@ -108,10 +108,10 @@
       "#504945"
       ],
       "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#504945"
+      "#665c54"
       ],
       "REDESIGN_BUTTON_SECONDARY_BORDER": [ 
-      "#7c6f64"
+      "#665c54"
       ],
       "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
       "#ebdbb2"
@@ -149,7 +149,7 @@
       "BRAND_560": "#d3869b",
       "PLUM_1": "#ebdbb2",
       "PLUM_10": "#928374",
-      
+      "PLUM_11": "#1d2021",
       "PLUM_13": "#d3869b50",
       "PLUM_15": "#504945",
       "PLUM_16": "#504945",
