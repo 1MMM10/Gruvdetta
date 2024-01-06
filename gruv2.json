@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
       "ANDROID_RIPPLE": [
-      "#98971a50"
+      "#bdae9350"
       ],
       "BACKGROUND_ACCENT": [
       "#b16286"
@@ -99,7 +99,7 @@
       "#d5c4a1"
       ],
       "MENTION_FOREGROUND": [
-      "#98971a"
+      "#bdae93"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#504945"
