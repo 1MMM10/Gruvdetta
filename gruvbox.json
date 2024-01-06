@@ -262,7 +262,7 @@
           "StatusDND": "#fb4934",
           "StatusOffline": "#1d2021",
           "StatusOnline": "#b8bb26",
-          "StatusStreaming": "#b8bb26",
+          "StatusStreaming": "#b8bb26"
  }
 },
     "spec": 2
