@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
       "ANDROID_RIPPLE": [
-      "#98971a50"
+      "#bdae9350"
       ],
       "BACKGROUND_ACCENT": [
       "#b16286"
@@ -57,13 +57,13 @@
       "#3c3836"
       ],
       "BORDER_FAINT": [
-      "#d3869b"
+      "#a89984"
       ],
       "BORDER_STRONG": [
-      "#b16286"
+      "#a89984"
       ],      
       "BORDER_SUBTLE": [
-      "#d3869b"
+      "#a89984"
       ],
       "CARD_SECONDARY_BG": [
       "#1d2021"
@@ -111,7 +111,7 @@
       "#504945"
       ],
       "REDESIGN_BUTTON_SECONDARY_BORDER": [ 
-      "#b16286"
+      "#7c6f64"
       ],
       "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
       "#ebdbb2"
@@ -129,7 +129,7 @@
       "#fb4934"
       ],
       "TEXT_LINK": [
-      "#b8bb26"
+      "#8ec07c"
       ],
       "TEXT_MUTED": [
       "#928374"
@@ -145,7 +145,7 @@
       "BLUE_345": "#458588",
       "BRAND_260": "#d3869b",
       "BRAND_360": "#d3869b",
-      "BRAND_500": "#d3869b",
+      "BRAND_500": "#a89984",
       "BRAND_560": "#b8bb26",
       "PLUM_1": "#ebdbb2",
       "PLUM_10": "#928374",
@@ -207,21 +207,21 @@
       "GUILD_BOOSTING_PINK": "#d3869b",   
       "GUILD_BOOSTING_PURPLE": "#b16286",
       "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#d3869b",
-      "RED_260": "#b16286",
-      "RED_300": "#b16286",
-      "RED_330": "#b16286",
-      "RED_345": "#b16286",
-      "RED_360": "#b16286",
-      "RED_400": "#b16286",
-      "RED_430": "#b16286",
-      "RED_460": "#b16286",
-      "RED_500": "#b16286",
-      "RED_530": "#b16286",
-      "RED_560": "#b16286",
-      "RED_600": "#b16286",
-      "RED_630": "#b16286",
-      "RED_660": "#b16286",
-      "RED_700": "#b16286",
+      "RED_260": "#cc241d",
+      "RED_300": "#cc241d",
+      "RED_330": "#cc241d",
+      "RED_345": "#cc241d",
+      "RED_360": "#cc241d",
+      "RED_400": "#cc241d",
+      "RED_430": "#cc241d",
+      "RED_460": "#cc241d",
+      "RED_500": "#cc241d",
+      "RED_530": "#cc241d",
+      "RED_560": "#cc241d",
+      "RED_600": "#cc241d",
+      "RED_630": "#cc241d",
+      "RED_660": "#cc241d",
+      "RED_700": "#cc241d",
       "YELLOW_100": "#d79921",
       "YELLOW_130": "#d79921",
       "YELLOW_160": "#d79921",
@@ -277,7 +277,7 @@
           "ic_chat_bubble_12px": "#1d2021",
           "ic_chat_bubble_16px": "#1d2021",
           "ic_chat_bubble_32px": "#1d2021",
-          "ic_check": "#d79921",
+          "ic_check": "#b8bb26",
           "ic_check__overlay": "#d3869b",
           "ic_copy_id": "#d79921",
           "ic_copy_message_link": "#d79921",
@@ -375,4 +375,4 @@
  }
 },
     "spec": 2
-}
+    }
