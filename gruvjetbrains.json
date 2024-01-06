@@ -15,7 +15,7 @@
       "#b16286"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
-      "#98971a50"
+      "#fbf1c750"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
       "#3c3836"
@@ -33,7 +33,7 @@
       "#282828"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
-      "#98971a50"
+      "#fbf1c750"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
       "#504945"
@@ -319,7 +319,7 @@
           "ic_header_members_add_24px": "#d79921",
           "ic_home_event": "#98971a",
           "ic_invite": "#d79921",
-          "ic_launch": "#458588",
+          "ic_launch": "#fbf1c7",
           "ic_link": "#d79921",
           "ic_link_24px": "#d79921",
           "ic_logout_24px": "#98971a",
