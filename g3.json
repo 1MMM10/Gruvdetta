@@ -144,7 +144,7 @@
     "rawColors": {
       "BLUE_345": "#8ec07c",
       "BRAND_260": "#ebdbb2",
-      "BRAND_360": "#d3869b",
+      "BRAND_360": "#ffffff",
       "BRAND_500": "#a89984",
       "BRAND_560": "#689d6a",
       "PLUM_1": "#ebdbb2",
@@ -164,7 +164,7 @@
       "PLUM_25": "#504945",
       "PLUM_3": "#ebdbb2",
       "PLUM_4": "#d3869b50",
-      "PLUM_6": "#d3869b",
+      "PLUM_6": "#ffffff",
       "PLUM_9": "#ebdbb2",
       "PRIMARY_100": "#665c54",
       "PRIMARY_230": "#d5c4a1",
